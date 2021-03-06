@@ -34,4 +34,25 @@ P147~P166教程
 
 #### 代码文件目录
 
+boss.h
+
+empFile.txt
+
+employee.cpp
+
+employee.h
+
+manager.cpp
+
+manager.h
+
+worer.h
+
+workerManager.h
+
+workerManeger.cpp
+
+职工管理系统.cpp
+
+
 
